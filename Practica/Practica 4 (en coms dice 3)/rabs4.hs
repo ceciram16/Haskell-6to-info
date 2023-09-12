@@ -1,4 +1,4 @@
-Practica 3 (segun titulo en comunidades)
+TAKE this placePractica 3 (segun titulo en comunidades)
 
 ------------------------------------------------------------------------------------------------------
 -- 3) ¿Cuales de los siguientes enunciados son verdaderos? Probar las respuestas.
